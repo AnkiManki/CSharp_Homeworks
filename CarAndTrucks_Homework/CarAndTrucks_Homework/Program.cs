@@ -58,6 +58,7 @@ namespace CarAndTrucks_Homework
 			{
 				Console.WriteLine("Invalid licence plate!");
 				MainMenu();
+				return;
 			}
 			else 
 				car.LicencePlate = result;
@@ -99,6 +100,7 @@ namespace CarAndTrucks_Homework
 			{
 				Console.WriteLine("Invalid licence plate!");
 				MainMenu();
+				return;
 			}
 			else
 				truck.LicencePlate = result;
