@@ -1,0 +1,8 @@
+C:\Users\Stefan\Dropbox\C# Projects\Homework2\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Stefan\Dropbox\C# Projects\Homework2\Homework2\bin\Debug\Homework2.exe
+C:\Users\Stefan\Dropbox\C# Projects\Homework2\Homework2\bin\Debug\Homework2.pdb
+C:\Users\Stefan\Dropbox\C# Projects\Homework2\Homework2\obj\Debug\Homework2.exe
+C:\Users\Stefan\Dropbox\C# Projects\Homework2\Homework2\obj\Debug\Homework2.pdb
+C:\Users\Stefan\Dropbox\C# Projects\Homework\Homework2\bin\Debug\Homework2.exe.config
+C:\Users\Stefan\Dropbox\C# Projects\Homework\Homework2\obj\Debug\Homework2.exe
+C:\Users\Stefan\Dropbox\C# Projects\Homework\Homework2\obj\Debug\Homework2.pdb

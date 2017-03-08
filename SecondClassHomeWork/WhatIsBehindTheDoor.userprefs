@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2AA56B78-C289-4001-9B08-4289C27BC018}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhatIsBehindTheDoor/Program.cs">
+    <Files>
+      <File FileName="WhatIsBehindTheDoor/Program.cs" Line="12" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WhatIsBehindTheDoor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
