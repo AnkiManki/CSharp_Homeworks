@@ -1,12 +1,5 @@
 ﻿<Properties StartupConfiguration="{1028FCA3-230D-4B6F-9066-9441E1690A64}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CarAndTrucks_Homework/Program.cs">
-    <Files>
-      <File FileName="CarAndTrucks_Homework/Models/Vehicles.cs" Line="22" Column="1" />
-      <File FileName="CarAndTrucks_Homework/Models/Car.cs" Line="1" Column="1" />
-      <File FileName="CarAndTrucks_Homework/Models/Truck.cs" Line="18" Column="1" />
-      <File FileName="CarAndTrucks_Homework/Program.cs" Line="66" Column="35" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

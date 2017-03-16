@@ -43,6 +43,7 @@ namespace CarAndTrucks_Homework
 			}
 		}
 
+
 		public static void CreateCar() 
 		{
 			Console.Clear();

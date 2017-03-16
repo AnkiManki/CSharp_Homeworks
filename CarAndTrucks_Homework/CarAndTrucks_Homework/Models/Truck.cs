@@ -17,5 +17,7 @@ Color: {Color},
 Power: {Power}, 
 Capacity: {Capacity}");
 		}
+
+
 	}
 }
